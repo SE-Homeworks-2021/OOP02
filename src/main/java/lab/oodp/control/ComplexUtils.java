@@ -173,9 +173,9 @@ public class ComplexUtils {
 		
 	}
 	
-	public static void main(String[] args) 
-	{
-		ComplexUtils test = new ComplexUtils();
+//	public static void main(String[] args) 
+//	{
+//		ComplexUtils test = new ComplexUtils();
 //		
 //		System.out.println("i did, did i");
 //		System.out.println(test.reverseString("i did, did i"));
@@ -185,5 +185,5 @@ public class ComplexUtils {
 //		
 //		System.out.print(kim);
 		
-	}
+//	}
 }
